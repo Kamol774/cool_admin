@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01/.idea/01.iml" filepath="$PROJECT_DIR$/../01/.idea/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../delicious_restaurant/.idea/adminka.iml" filepath="$PROJECT_DIR$/../delicious_restaurant/.idea/adminka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cool_admin.iml" filepath="$PROJECT_DIR$/.idea/cool_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cool_admin1/.idea/university.iml" filepath="$PROJECT_DIR$/../cool_admin1/.idea/university.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yangiliklar_sayti/.idea/yangiliklar_sayti.iml" filepath="$PROJECT_DIR$/../yangiliklar_sayti/.idea/yangiliklar_sayti.iml" />
+    </modules>
+  </component>
+</project>
